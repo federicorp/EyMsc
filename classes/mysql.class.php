@@ -13,7 +13,7 @@
  * 
  */
 
- class mysql{
+ class mysql extends singleton{
      
      private $campos=array();
      private $tabla="";

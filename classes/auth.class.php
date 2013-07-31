@@ -45,7 +45,7 @@
       
       public function __construct($object){
         $this->usu = $object;
-     }
+      }
       
      /**
       * 
